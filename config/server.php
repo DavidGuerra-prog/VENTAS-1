@@ -1,6 +1,6 @@
 <?php
-
-	const DB_SERVER="localhost";
-	const DB_NAME="ventas";
-	const DB_USER="root";
-	const DB_PASS='';
+    define('SERVER','127.0.0.1');
+    define('DB_USER','root');
+    define('DB_PASS','');
+    define('DB_NAME','ventas');
+?>
